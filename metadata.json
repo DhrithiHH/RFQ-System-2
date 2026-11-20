@@ -1,0 +1,6 @@
+{
+  "name": "GoComet British Auction RFQ",
+  "description": "Real-time British Auction RFQ platform with automatic anti-sniping bid extensions, forced closure rules, live supplier rankings, and full audit history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
